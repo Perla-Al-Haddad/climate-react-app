@@ -2,8 +2,8 @@
 
 ## Wire Frames
 ### Home Page
-![Home Page Wireframe](./wrieframes/climate-home-page-wireframe.jpg)
+![Home Page Wireframe](./wireframes/climate-home-page-wireframe.jpg)
 
 ### Chart Screen
-![Char Screen Wireframe](./wrieframes/chart-screen-wireframe.jpg)
+![Char Screen Wireframe](./wireframes/chart-screen-wireframe.jpg)
 
